@@ -341,7 +341,7 @@ More
       </div>
       </body>
       </html>
-### output:
+### OUTPUT:
 ```
 ### HOME PAGE:
 ![output](./SS1.jpg)
