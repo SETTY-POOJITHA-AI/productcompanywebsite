@@ -36,8 +36,6 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 
-## OUTPUT:
-
 ### Home Page:
 ```
 <!DOCTYPE html>
@@ -344,7 +342,7 @@ More
       </body>
       </html>
 
-### OUTPUT
+### OUTPUT:
 ```
 ### HOME PAGE:
 ![output](./SS1.jpg)
